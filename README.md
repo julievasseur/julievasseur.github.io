@@ -1,5 +1,5 @@
 ---
-permalink: form.html
+permalink: index.html
 ---
 
 
