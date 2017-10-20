@@ -1,0 +1,136 @@
+body {
+	background-image: url("http://www.mie-roubaix.fr/wp-content/uploads/2017/06/150831_femmeetnumerique.jpg");
+}
+
+
+.section {
+	background-color: blue;
+}
+
+.h1-1 {
+	text-align: center;
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 30px;
+	color: white;
+	font-weight: bold;
+	margin-top: 4em;
+	margin-bottom: 0.6em;
+	padding-bottom: -1em;
+}
+.h1-2 {
+	text-align: center;
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 30px;
+}
+
+.encart {
+	display: flex;
+	justify-content: center;
+}
+
+.encart1.pink.lighten-4 {
+	display: flex;
+	justify-content: center;
+	margin: auto;
+	max-width: 500px; 
+	height: auto;
+	background: #A283A6;
+	border-top-right-radius: 10px;	
+	border-top-left-radius: 10px;
+	border-bottom-right-radius: 10px;	
+	border-bottom-left-radius: 10px;
+	padding-bottom: -4em;	
+}
+
+.encart2.pink.lighten-4 {
+	display: flex;
+	justify-content: center;
+	margin: auto;
+	max-width: 500px; 
+	height: auto;
+	background: #A283A6;
+	padding-bottom: -15em;
+
+	
+}
+.encart3.pink.lighten-4 {
+	display: flex;
+	justify-content: center;
+	margin: auto;
+	max-width: 500px; 
+	height: auto;
+	background: transparent;
+	border-bottom-right-radius: 10px;
+	border-bottom-left-radius: 10px;	
+}
+
+h2 {
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 5%;
+}
+
+/*h3 {
+	font-family: 'Titillium Web', sans-serif;
+	font-style: italic;
+	text-align: center;
+	margin-bottom: -0.2em;
+	color: white;*/
+
+}
+
+.meantime {
+	margin: auto;
+}
+
+.logofacebook {
+	max-width: 2em;
+	height: auto;
+	margin-right: 1.5em;
+}
+.logolinkedin {
+	max-width: 2em;
+	height: auto;
+	margin-right: 1.5em;
+}
+.logotwitter {
+	max-width: 2em;
+	height: auto;
+	margin-right: 1.5em;
+}
+.logoinstagram {
+	max-width: 2em;
+	height: auto;
+	margin-right: 1.5em;
+}
+.logoyoutube {
+	max-width: 2em;
+	height: auto;
+}
+
+.input {
+	margin-top: 1em;
+}
+
+.btn {
+  background: #8cf790;
+  background-image: -webkit-linear-gradient(top, #8cf790, #6dbf6f);
+  background-image: -moz-linear-gradient(top, #8cf790, #6dbf6f);
+  background-image: -ms-linear-gradient(top, #8cf790, #6dbf6f);
+  background-image: -o-linear-gradient(top, #8cf790, #6dbf6f);
+  background-image: linear-gradient(to bottom, #8cf790, #6dbf6f);
+  -webkit-border-radius: 9;
+  -moz-border-radius: 9;
+  border-radius: 9px;
+  font-family: 'Titillium Web', sans-serif;
+  color: #000000;
+  font-size: 15px;
+  padding: 10px 20px 10px 20px;
+  margin-left: 0.6em;
+  margin-bottom: 0.3em;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cfc63;
+  text-decoration: none;
+}
