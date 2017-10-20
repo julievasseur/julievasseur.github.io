@@ -1,4 +1,5 @@
 .bun-top {
+  display:flex;
   height: 70px;
   width: 60%;
   background: #e5b05a;
@@ -7,6 +8,8 @@
 }
 
 .cheese {
+  display:flex;
+  order: 6;
   height: 15px;
   width: 65%;
   background: #f2c120;
@@ -14,6 +17,8 @@
 }
 
 .tomato {
+  display: flex;
+  flex-direction: row;
   height: 25px;
   width: 50%;
   background-color: #dd3710;
@@ -21,6 +26,7 @@
 }
 
 .meatball {
+  display:flex;
   height: 60px;
   width: 70px;
   background: #74380d;
@@ -30,6 +36,7 @@
 }
 
 .patty {
+  display:flex;
   height: 35px;
   width: 65%;
   background: #ad370b;
@@ -38,6 +45,7 @@
 }
 
 .pickle {
+  display:flex;
   height: 30px;
   width: 50%;
   background: #3ac67d;
@@ -46,12 +54,15 @@
 }
 
 .onion {
+  display:flex;
   width: 40%;
   background-color: #a039bf;
   border-top: dotted 20px rgba(255,255,255,.2);
 }
 
 .bun-bottom {
+  display:flex;
+  justify-content: flex-end;
   height: 35px;
   width: 60%;
   background: #e5b05a;
@@ -60,6 +71,7 @@
 }
 
 .plate {
+  display:flex;
   height: 25px;
   width: 80%;
   background: #656565;

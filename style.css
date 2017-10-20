@@ -32,7 +32,8 @@ h2 {
 }
 
 p {
-  padding: auto;
+   text-align: center;
+  margin-top:auto;
 }
 
 /* Set the maximum width of your burger */
