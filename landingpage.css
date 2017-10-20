@@ -17,6 +17,7 @@ body {
 	margin-top: 2em;
 	margin-bottom: 0.6em;
 	padding-bottom: -1em;
+
 }
 .h1-2 {
 	display:flex;
@@ -24,6 +25,7 @@ body {
 	text-align: center;
 	font-family: 'Titillium Web', sans-serif;
 	font-size: 30px;
+	line-height: 10px;
 }
 
 .encart {
@@ -81,6 +83,7 @@ h2 {
 	color: white;*/
 
 }
+
 div.resserretoi {
     padding: -50%;
 }
@@ -116,6 +119,10 @@ div.resserretoi {
 
 .input {
 	margin-top: 1em;
+}
+
+h6 {
+	font-style: italic;
 }
 
 /*.btn {
